@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T22:55:02.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oxcbHHNtKPcgrr3LB2cW" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-17T22:56:04.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5eIfH2JI0I8C67xftUAR" version="21.0.6" type="github" pages="2">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="1674" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3348" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="Conceptos básicos de ciberseguridad" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24" parent="1" vertex="1">
-          <mxGeometry x="1000" y="50" width="340" height="60" as="geometry" />
+          <mxGeometry x="1169" y="50" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Ciberseguridad" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="160" y="169.9999999999998" width="140" height="60" as="geometry" />
@@ -169,7 +169,7 @@
         <mxCell id="vs3Dtrz2g9ymceC9rqFN-238" value="En México el derecho de protección de datos personales se encuentra previsto en distintas regulaciones, según el ámbito de que se trate. En el sector público, la Ley General regula el tratamiento de datos personales." style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2280" y="680" width="360" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vs3Dtrz2g9ymceC9rqFN-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;" parent="1" edge="1">
+        <mxCell id="vs3Dtrz2g9ymceC9rqFN-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fontColor=#000000;endArrow=none;endFill=0;strokeWidth=8;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1170" y="110" as="sourcePoint" />
             <mxPoint x="2450" y="170" as="targetPoint" />
@@ -198,6 +198,12 @@
         </mxCell>
         <mxCell id="uQ-FMA4ni5SMKxAk8EgQ-243" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.captio.net/hubfs/Captio%20Blog%20Image%20%2810%29-1.png;" vertex="1" parent="1">
           <mxGeometry x="2379.08" y="237.02" width="149.85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uQ-FMA4ni5SMKxAk8EgQ-244" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="500" as="sourcePoint" />
+            <mxPoint x="1310" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
